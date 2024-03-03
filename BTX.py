@@ -1,1 +1,3 @@
-import BXT
+import os
+os.system('git pull')
+import BBT
